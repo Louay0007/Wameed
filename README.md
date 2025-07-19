@@ -10,18 +10,6 @@
 ---
 
 <p align="center">
-  <img src="# <img src="https://i.ibb.co/mrQb2c77/wameed1.png" width="32"/> Wameedh: Regional Short Film Festival
-
-![Next.js](https://img.shields.io/badge/Next.js-15.2.3-blue?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-19.0.0-61dafb?logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38bdf8?logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?logo=typescript)
-![Animated UI](https://img.shields.io/badge/Animated-UI-yellow?logo=framer)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-green?logo=vercel)](https://your-demo-link.com)
-
----
-
-<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z2d3Z2b2Z2d3Z2b2Z2d3Z2b2Z2d3Z2b2Z2d3Z2b2Z2d3Z2/giphy.gif" width="400" alt="Animated Film Festival"/>
 </p>
 
