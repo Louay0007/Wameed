@@ -78,32 +78,31 @@ Visit: http://localhost:3000
 
 ## 🖼️ Showcase
 
-### Hero Section with Animated Countdown & Particles
+### <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="28" align="top"/> Hero Section with Animated Countdown & Particles
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/hero-animated.gif" width="600"/>
 </p>
 
-### Custom Video Player
+### <img src="https://raw.githubusercontent.com/github/explore/main/topics/video/video.png" width="28" align="top"/> Custom Video Player
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/animated-video-player.gif" width="500"/>
 </p>
 
-### Animated Carousels (Countries & Partners)
+### <img src="https://raw.githubusercontent.com/github/explore/main/topics/carousel/carousel.png" width="28" align="top"/> Animated Carousels (Countries & Partners)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/countries-carousel.gif" width="500"/>
   <img src="https://user-images.githubusercontent.com/placeholder/partners-carousel.gif" width="500"/>
 </p>
 
-### Tunisia Gallery with Animations
+### <img src="https://raw.githubusercontent.com/github/explore/main/topics/image/image.png" width="28" align="top"/> Tunisia Gallery with Animations
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/tunisia-gallery.gif" width="600"/>
 </p>
 
-### Global Audio Player
+### <img src="https://raw.githubusercontent.com/github/explore/main/topics/music/music.png" width="28" align="top"/> Global Audio Player
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/audio-player.gif" width="200"/>
 </p>
-
 ---
 
 ## 🛠️ How it Works
